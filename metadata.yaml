@@ -1,0 +1,41 @@
+_repo: The-Home--Or-Life-in-Sweden_20746
+_version: 0.1.0
+alternative_title: Hemmet. English
+contributor:
+  translator:
+    agent_name: Howitt, Mary (Mary Botham)
+    aliases:
+    - Howitt, Mary Botham
+    - Hewitt, Mrs. (Mary Botham)
+    birthdate: 1799
+    deathdate: 1888
+    gutenberg_agent_id: '5477'
+    url: http://www.gutenberg.org/2009/agents/5477
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bremer, Fredrika
+    aliases:
+    - Bremer, Frederica
+    - Bremer, Frederika
+    birthdate: 1801
+    deathdate: 1865
+    gutenberg_agent_id: '1775'
+    url: http://www.gutenberg.org/2009/agents/1775
+    wikipedia: http://en.wikipedia.org/wiki/Fredrika_Bremer
+description: ''
+gutenberg_issued: '2007-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20746'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Sweden -- Social life and customs -- 19th century -- Fiction'
+title: The Home; Or, Life in Sweden
+url: http://www.gutenberg.org/ebooks/20746
